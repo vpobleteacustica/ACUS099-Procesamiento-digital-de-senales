@@ -36,7 +36,7 @@ La asignatura Digital signal processing tiene como principal propósito que los 
   + 4.3 Densidad espectral de potencia usando FFT.
   + 4.4 Función de autocorrelación. Transformada de Fourier de la autocorrelación y  espectro de potencia.
 
-### Proyectos:
+### Proyectos: Pueden ser resueltos en grupos de máximo dos estudiantes.
   + **(P1) Suma de Convolución (20%).** Construir un código en Python que muestre una animación, paso paso, del proceso de suma de convolución entre dos secuencias. Debe mostrar gráficamente tres secuencias: las dos secuencias a convolucionar y la tercera es la secuencia resultante convolucionada. Se aplica lenguaje matemático y lenguaje de programación. El código tiene que estar bien organizado y con comentarios. Debe funcionar para cualquier señal acústica que se ingrese.
     + Entrega: A más tardar, el lunes 18 de Mayo, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso. 
   + **(P2) Segmentar una señal acústica en tiempos cortos y construir espectrograma (20%).** Construir un código en Python que genere una matriz la cual contenga una señal segmentada en tiempo corto. A cada segmento, aplicar una ventana, por ejemplo, Hamming, y calcular la Transformada de Fourier. Debe representar además, la magnitud cuadrática de cada segmento a lo largo del tiempo (espectrograma). Se aplica lenguaje matemático y lenguaje de programación. 
