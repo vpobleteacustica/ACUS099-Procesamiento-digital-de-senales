@@ -11,3 +11,5 @@ La asignatura Digital signal processing tiene como principal propósito que los 
   + Dr. Víctor Poblete Ramírez, vpoblete@uach.cl 
 * **Ayudante:**
   + Diego Espejo Alquinta, diego.espejo@alumnos.uach.cl 
+### Contenidos
+* **Unidad 1:** Secuencias y sistemas en el dominio del tiempo discreto.
