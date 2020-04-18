@@ -31,7 +31,9 @@ La asignatura Digital signal processing tiene como principal propósito que los 
   + 3.4 Diseño de filtros en tiempo discreto: pasa bajo, pasa banda, pasa altos.
      
 * **Unidad 4:** Nociones básicas de procesamiento de señales aleatorias.  
-  + 4.1
-  + 4.2
-  + 4.3
-  + 4.4
+  + 4.1 Señales discretas randómicas en el tiempo.
+  + 4.2 Señales degradas con ruido aleatorio por procesos de ruido o vibraciones.
+  + 4.3 Densidad espectral de potencia usando FFT.
+  + 4.4 Función de autocorrelación. Transformada de Fourier de la autocorrelación y  espectro de potencia.
+
+  
