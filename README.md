@@ -1,6 +1,6 @@
 # Universidad Austral de Chile
 # Instituto de Acústica
-## ACUS099 Digital-signal-processing
+## ACUS099 Procesamiento digital de señales
 ### Descripción
 La asignatura Digital signal processing tiene como principal propósito que los estudiantes apliquen conocimientos en el área de procesamiento y análisis de señales, y fundamentando conceptualmente el procesamiento en el dominio digital en contextos de trabajo multidisciplinario.
 * **Semestre:** 
