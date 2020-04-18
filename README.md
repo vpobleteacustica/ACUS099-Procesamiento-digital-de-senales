@@ -17,3 +17,6 @@ La asignatura Digital signal processing tiene como principal propósito que los 
 * **Unidad 2:** Secuencias y sistemas en dominio de la frecuencia.  
 
 * **Unidad 3:** Transormada z. Transformada z inversa. Filtros en tiempo discreto. 
+
+* **Unidad 4:** Nociones básicas de procesamiento de señales aleatorias.  
+
