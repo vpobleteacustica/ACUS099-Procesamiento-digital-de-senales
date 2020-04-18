@@ -13,3 +13,7 @@ La asignatura Digital signal processing tiene como principal propósito que los 
   + Diego Espejo Alquinta, diego.espejo@alumnos.uach.cl 
 ### Contenidos
 * **Unidad 1:** Secuencias y sistemas en el dominio del tiempo discreto.
+
+* **Unidad 2:** Secuencias y sistemas en dominio de la frecuencia.  
+
+* **Unidad 3:** Transormada z. Transformada z inversa. Filtros en tiempo discreto. 
