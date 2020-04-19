@@ -51,11 +51,11 @@ La asignatura Digital signal processing tiene como principal propósito que los 
 ### Evaluaciones:
   + **Pimera evaluación (EV1) de procedimiento teórico-práctico (10%):** Lunes 04 de Mayo de 2020. 
 Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación.
-+ **Segunda evaluación (EV2) de procedimiento teórico-práctico (10%):** Lunes 18 de Mayo de 2020. 
+  + **Segunda evaluación (EV2) de procedimiento teórico-práctico (10%):** Lunes 18 de Mayo de 2020. 
 Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación. 
   + **Tercera evaluación (EV3) de procedimiento teórico-práctico (10%):** Lunes 01 de Junio de 2020. 
 Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación.
-+ **Cuarta evaluación (EV4) de procedimiento teórico-práctico (10%):** Lunes 15 de Junio de 2020. 
+  + **Cuarta evaluación (EV4) de procedimiento teórico-práctico (10%):** Lunes 15 de Junio de 2020. 
 Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación. 
 
 
