@@ -58,5 +58,9 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
   + **Cuarta evaluación (EV4) de procedimiento teórico-práctico (10%):** Lunes 15 de Junio de 2020. 
 Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación. 
 
-
+### Evaluaciones y nota final:     
+  + El promedio de las evaluaciones se calculará como: 
+       **NotaFinal = (EV1)*0.1 + (EV2)*0.1 + (EV3)*0.1 + (EV4)*0.1 + (P1)*0.2 + (P2)*0.2 + (P3)*0.2**
+       
+    9) Se aprueba con NotaFinal >= 4.0.
 
