@@ -64,4 +64,8 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
        **NotaFinal** = (EV1)*0.1 + (EV2)*0.1 + (EV3)*0.1 + (EV4)*0.1 + (P1)*0.2 + (P2)*0.2 + (P3)*0.2
        
   + Se aprueba con NotaFinal >= 4.0.
+  
+ ### Bibliografía:
+  + Oppenheim, A. V., Schafer, R., W. Discrete-Time Signal Processing. Prentice Hall, Inc. New Jersey, 1989. 
+  + Oppenheim, A. V., Schafer, R., W. Tratamiento de Señales en Tiempo Discreto. Segunda Edición, Prentice Hall, Madrid, 2000.
 
