@@ -73,4 +73,5 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
   
 ### Librerías
   + Lenguaje: <a href="https://docs.python.org/3/" title="Python 3.8.2 documentation">Python 3.8.2 documentation</a> 
+  + Ambiente: <a href="https://ipython.org/" title=" IPython"> IPython</a>  
 
