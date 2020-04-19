@@ -74,7 +74,7 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
 ### Software y Librerías
   + Lenguaje: <a href="https://docs.python.org/3/" title="Python 3.8.2 documentation">Python 3.8.2 documentation</a> 
   + Ambiente: <a href="https://ipython.org/" title=" IPython"> IPython</a> <a href="https://jupyter.org/" title=" Jupyter"> Jupyter</a> 
-  + Librerías para computación científica: <a href="https://numpy.org/" title=" Numpy"> Numpy</a>
+  + Librerías para computación científica: <a href="https://numpy.org/" title=" Numpy"> Numpy</a>, <a href="https://pandas.pydata.org/" title=" Pandas"> Pandas</a>
   + Librerías para visualización: <a href="https://matplotlib.org/" title=" Matplotlib"> Matplotlib</a> 
   + Librerías para análisis de audio y música: <a href="https://librosa.github.io/librosa/" title=" LibROSA"> LibROSA</a>
   
