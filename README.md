@@ -66,8 +66,11 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
   + Se aprueba con NotaFinal >= 4.0.
   
  ### Bibliografía:
-  + Charbit, M. Digital Signal Processing with Python Programming. John Wiley & Son, Inc. USA. 2017.
-  + Unpingco, J. Python for Signal Processing. Featuring IPython Notebook. Springer International Publishing Switzerland 2014.
-  + Oppenheim, A. V., Schafer, R., W. Discrete-Time Signal Processing. Prentice Hall, Inc. New Jersey, 1989. 
-  + Oppenheim, A. V., Schafer, R., W. Tratamiento de Señales en Tiempo Discreto. Segunda Edición, Prentice Hall, Madrid, 2000.
+  + Charbit, M. (2017). Digital Signal Processing with Python Programming. John Wiley & Son, Inc. USA.
+  + Unpingco, J. (2014). Python for Signal Processing. Featuring IPython Notebook. Springer International Publishing Switzerland.
+  + Oppenheim, A. V., Schafer, R., W. (1989). Discrete-Time Signal Processing. Prentice Hall, Inc. New Jersey.
+  + Oppenheim, A. V., Schafer, R., W. (2000). Tratamiento de Señales en Tiempo Discreto. Segunda Edición, Prentice Hall, Madrid.
+  
+### Librerías
+  + Lenguaje: <a href="https://docs.python.org/3/" title="About Me">About Me</a> 
 
