@@ -74,10 +74,10 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
 ### Software y Librerías
   + Lenguaje: <a href="https://docs.python.org/3/" title="Python 3.8.2 documentation">Python 3.8.2 documentation</a> 
   + Ambiente: <a href="https://ipython.org/" title=" IPython"> IPython</a> <a href="https://jupyter.org/" title=" Jupyter"> Jupyter</a> 
-  + Librerías para computación científica: 
-  + Librerías para visualización: <a href="https://matplotlib.org/" title=" Matplotlib"> Matplotlib</a> <a href="https://matplotlib.org/" title=" Matplotlib"> Matplotlib</a> 
+  + Librerías para computación científica: <a href="https://numpy.org/" title=" Numpy"> Numpy</a>
+  + Librerías para visualización: <a href="https://matplotlib.org/" title=" Matplotlib"> Matplotlib</a> 
   
   
   Numpy, Pandas, Scipy, Scikit-learn
-Librerías para visualización: Matplotlib, bokeh
+
 
