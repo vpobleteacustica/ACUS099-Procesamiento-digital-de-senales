@@ -47,4 +47,8 @@ La asignatura Digital signal processing tiene como principal propósito que los 
     + Entrega: A más tardar, el lunes 8 de Junio, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
   + **(P3) Representaciones para una señal acústica sin distorsión y degradada por ruido o vibración (20%).** Construir un código en Python que permita hacer representaciones de una señal acústica sin distorsión y degradada por ruido o vibración. Analizar las representaciones en tiempo y frecuencia, y usar Transformada de Fourier, filtros, espectrogramas, e histogramas. Se aplica lenguaje matemático y lenguaje de programación.
     + Entrega: A más tardar, el lunes 29 de Junio, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
+    
+### Evaluaciones:
+  + **Pimera evaluación (EV1) de procedimiento teórico-práctico (10%):** Lunes 04 de Mayo de 2020. 
+Se resuelve autónomamente un problema práctico en clases. El procedimiento incluye uso ejercicios de teoría y prácticos de programación Python. El trabajo considera guía de ejercicios y pauta de evaluación. 
 
