@@ -77,7 +77,7 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
   + Librerías para computación científica: <a href="https://numpy.org/" title=" Numpy"> Numpy</a>, <a href="https://pandas.pydata.org/" title=" Pandas"> Pandas</a>, <a href="https://www.scipy.org/" title=" Scipy"> Scipy</a>
   + Librerías para visualización: <a href="https://matplotlib.org/" title=" Matplotlib"> Matplotlib</a> 
   + Librerías para análisis de audio y música: <a href="https://librosa.github.io/librosa/" title=" LibROSA"> LibROSA</a>
-  + Tutorial introducción para markdown y <code>\LaTeX</code>   
+  + Tutorial introducción para markdown y <code>\\LaTeX</code>   
   
 
 
