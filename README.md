@@ -37,7 +37,7 @@ La asignatura Digital signal processing tiene como principal propósito que los 
   + 4.4 Función de autocorrelación. Transformada de Fourier de la autocorrelación y  espectro de potencia.
 
 ### Ambiente de desarrollo y manejo de datos:
-  + **Basado en IPython y Jupyter.** Se desarrollarán las clases y las actividades prácticas en formato Jupyetr notebook. Los trabajos para evaluación se entregarán en el mismo formato. Se contestarán las preguntas teóricas y se resolverán los problemas prácticos bajo este mismo ambiente. Se manipularán datos de señales y se visualizarán las representaciones de señales usando Jupyter widgets y librerías de Python tales como matplotlib, numpy, pandas y scipy. 
+  + **Basado en IPython y Jupyter.** Se desarrollarán las clases y las actividades prácticas en formato Jupyter notebook. Los trabajos para evaluación se entregarán en el mismo formato. Se contestarán las preguntas teóricas y se resolverán los problemas prácticos bajo este mismo ambiente. Se manipularán datos de señales y se visualizarán las representaciones de señales usando Jupyter widgets y librerías de Python tales como matplotlib, numpy, pandas y scipy. 
 
 ### Proyectos: 
   + **Pueden ser resueltos en grupos de máximo dos estudiantes.**
