@@ -76,7 +76,7 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
   + Ambiente: <a href="https://ipython.org/" title=" IPython"> IPython</a> <a href="https://jupyter.org/" title=" Jupyter"> Jupyter</a> 
   + Librerías para computación científica: <a href="https://numpy.org/" title=" Numpy"> Numpy</a>
   + Librerías para visualización: <a href="https://matplotlib.org/" title=" Matplotlib"> Matplotlib</a> 
-  
+  + Librerías para análisis de audio y música: <a href="https://librosa.github.io/librosa/" title=" LibROSA"> LibROSA</a>
   
   Numpy, Pandas, Scipy, Scikit-learn
 
