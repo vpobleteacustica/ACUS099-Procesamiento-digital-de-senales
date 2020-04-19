@@ -72,5 +72,5 @@ Se resuelve autónomamente un problema práctico en clases. El procedimiento inc
   + Oppenheim, A. V., Schafer, R., W. (2000). Tratamiento de Señales en Tiempo Discreto. Segunda Edición, Prentice Hall, Madrid.
   
 ### Librerías
-  + Lenguaje: <a href="https://docs.python.org/3/" title="About Me">About Me</a> 
+  + Lenguaje: <a href="https://docs.python.org/3/" title="Python 3.8.2 documentation">Python 3.8.2 documentation</a> 
 
