@@ -87,6 +87,10 @@ Input: jupyter notebook
 Al ejecutar esta linea se te deberia abrir una pestaña de tu navegador predeterminado con la plataforma *Jupyter Notebook* 
 
 ***
+Si al instalar "jupyter" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable. Acceder a
+<a href="https://andrezgz.wordpress.com/2014/06/04/agregar-ruta-a-la-variable-path-en-windows/">https://andrezgz.wordpress.com/2014/06/04/agregar-ruta-a-la-variable-path-en-windows/</a> para resolver problema.
+***
 
 ## 4 Mac<a name='id4'></a>
 
