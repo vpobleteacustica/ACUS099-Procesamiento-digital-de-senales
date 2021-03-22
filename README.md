@@ -4,7 +4,7 @@
 ### Descripción.
 La asignatura Procesamiento digital de señales tiene como principal propósito que los estudiantes apliquen conocimientos en el área de procesamiento y análisis de señales, y fundamentando conceptualmente el procesamiento en el dominio digital en contextos de trabajo multidisciplinario.
 * **Semestre:** 
-  + Otoño 2020. 
+  + Otoño 2021. 
 * **Requisitos:** 
   + Física: ondas y electromagnetismo (BAIN085-14).
 * **Docente responsable:** 
