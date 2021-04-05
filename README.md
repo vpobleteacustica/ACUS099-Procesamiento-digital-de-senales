@@ -46,7 +46,7 @@ La asignatura Procesamiento digital de señales tiene como principal propósito 
   + **(P2) Segmentar una señal acústica en tiempos cortos y construir espectrograma (20%).** martes 8 de Junio 2021. Construir un código en Python que genere una matriz la cual contenga una señal segmentada en tiempo corto. A cada segmento, aplicar una ventana, por ejemplo, Hamming, y calcular la Transformada de Fourier. Debe representar además, la magnitud cuadrática de cada segmento a lo largo del tiempo (espectrograma). Se aplica lenguaje matemático y lenguaje de programación. 
     + Entrega: A más tardar, el lunes 8 de Junio, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
   + **(P3) Representaciones de señales acústica (20%).** martes 06 de Julio 2021. Construir un código en Python que permita hacer representaciones de una señal acústica sin distorsión y degradada por ruido o vibración. Analizar las representaciones en tiempo y frecuencia, y usar Transformada de Fourier, filtros, espectrogramas, e histogramas. Se aplica lenguaje matemático y lenguaje de programación.
-    + Entrega: A más tardar, el lunes 29 de Junio, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
+    + Entrega: A más tardar, el martes 06 de Julio, 16 horas. Cumplida la fecha de entreha, se descontará un punto por día de atraso.
     
 ### Evaluaciones:
   + **Pimera evaluación (EV1) de procedimiento teórico-práctico (10%):** Lunes 3 de Mayo de 2021. 
